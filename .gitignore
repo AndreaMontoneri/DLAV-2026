@@ -1,4 +1,6 @@
 .DS_Store
 
+*.ckpt
+
 homeworks/hw2/Images/
 homeworks/hw2/Model_weights/
